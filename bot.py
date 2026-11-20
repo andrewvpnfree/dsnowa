@@ -39,7 +39,7 @@ def fetch_clean_configs(url):
 
 if __name__ == "__main__":
     # Целевой URL для мобильной подписки
-    TARGET_URL = "https://vpnsvpns.github.io/Prihs/mifa.json"
+    TARGET_URL = "https://github.com/PizdukMod/PizdukVPN/raw/refs/heads/main/wl"
 
     configs = fetch_clean_configs(TARGET_URL)
 
